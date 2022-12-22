@@ -1,5 +1,5 @@
 class Name {
-  final num count;
+  final int count;
   final String gender;
 
   Name({required this.count, required this.gender});
